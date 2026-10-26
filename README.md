@@ -126,10 +126,6 @@ Learning:     "Generative AI, NLP, backend development"
 
 <br/><br/>
 
-**Contribution graph**
-
-<img width="90%" src="https://ghchart.rshah.org/8B5CF6/nanchal" alt="contribution graph" />
-
 <!--
   Note: the popular `github-readme-activity-graph.vercel.app` line-chart graph was
   returning HTTP 402 (its public instance is over quota) when this README was built,
